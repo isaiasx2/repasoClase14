@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.qrContainer{
+    background-color: hsl(212, 45%, 89%);
+    position: relative;
+}
+.card{
+    position: absolute;
+}
